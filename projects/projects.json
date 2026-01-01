@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Nike Landing Page",
+    "desc": "Nike shoes landing page: responsive, dynamic, interactive, stylish, user-friendly, immersive, informative.. Built using React Firebase,.",
+    "image": "nike",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Dairy Management DashBoard",
+    "desc": "Efficient dairy management system: track, analyze, optimize, streamline, automate, report.. Built using PHP,  and MySql.",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Ordering Application ",
+    "desc": "Streamlined food ordering app: browse, select, customize, order, pay, track, enjoy.",
+    "image": "newsboxandroid",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  } 
+   
+]
