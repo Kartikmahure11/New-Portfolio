@@ -1,18 +1,19 @@
 [
   {
-    "name": "Nike Landing Page",
-    "desc": "Nike shoes landing page: responsive, dynamic, interactive, stylish, user-friendly, immersive, informative.. Built using React Firebase,.",
-    "image": "nike",
+    "name": "Buy-Smart E-Commerce Website",
+    "desc": "Developed a responsive e-commerce web application with product browsing, authentication, shopping cart, and order management using React, Firebase, HTML, CSS, and JavaScript.",
+    "image": "E-Commerce",
     "category": "basicweb",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
+  
   {
-    "name": "Dairy Management DashBoard",
-    "desc": "Efficient dairy management system: track, analyze, optimize, streamline, automate, report.. Built using PHP,  and MySql.",
-    "image": "sppuprepandroid",
+    "name": "Employee Payroll Management System",
+    "desc": "Developed a Java-based payroll management system with employee records, attendance tracking, leave management, payroll calculation, and report generation using Java, Hibernate, Servlets, and MySQL.",
+    "image": "Payroll",
     "category": "android",
     "links": {
       "view": "#",
@@ -20,8 +21,8 @@
     }
   },
   {
-    "name": "Food Ordering Application ",
-    "desc": "Streamlined food ordering app: browse, select, customize, order, pay, track, enjoy.",
+    "name": "School Management System ",
+    "desc": "Designed a C++ application to manage student records, attendance, examinations, and fee details using object-oriented programming concepts.",
     "image": "newsboxandroid",
     "category": "basicweb",
     "links": {
